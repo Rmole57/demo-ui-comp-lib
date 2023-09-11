@@ -1,5 +1,5 @@
 {
-  "name": "demo-ui",
+  "name": "demo-ui-comp-lib",
   "version": "1.0.0",
   "description": "DemoUI component library",
   "main": "dist/cjs/index.js",
